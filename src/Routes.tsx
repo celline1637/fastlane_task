@@ -1,5 +1,5 @@
 import { Navigate, useRoutes } from 'react-router-dom'
-import { Layout } from './components/layout'
+import { Layout } from './components'
 import { ListScreen } from './pages/list'
 
 const Routes = () => {

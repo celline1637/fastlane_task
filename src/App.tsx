@@ -1,9 +1,9 @@
 import { ThemeProvider } from 'styled-components'
 import { QueryClient, QueryClientProvider } from 'react-query'
 import { ReactQueryDevtools } from 'react-query/devtools'
-import Routes from './Routes'
 import GlobalStyle from './theme/globalStyles'
 import theme from './theme/theme'
+import Routes from './Routes'
 
 const queryClient = new QueryClient({
   defaultOptions: {
