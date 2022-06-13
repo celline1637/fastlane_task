@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 
-export const Wrapper = styled.div`
+export const Wrapper = styled.main`
   margin: 0 auto;
   margin-top: 6rem;
   width: 100%;

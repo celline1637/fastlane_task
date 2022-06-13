@@ -1,9 +1,25 @@
 import { size } from './breakpoints'
 import { colors } from './palette'
-import * as position from './position'
+import {
+  calcRem,
+  calcP,
+  calcVw,
+  flexSet,
+  flexColumnSet,
+  posCenterX,
+  posCenterY,
+  posCenter,
+} from './position'
 
 const theme = {
-  position,
+  calcRem,
+  calcP,
+  calcVw,
+  flexSet,
+  flexColumnSet,
+  posCenterX,
+  posCenterY,
+  posCenter,
   colors,
   tablet: `(min-width: ${size.tablet})`,
   laptop: `(max-width: ${size.laptop})`,
