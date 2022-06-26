@@ -1,6 +1,7 @@
-# fastlane 프론트엔드 과제
+# Github Issue Api 사용해보기
 
 #### _FE sunkyung_
+![github_issue](https://user-images.githubusercontent.com/77728308/175825212-19a3a07e-343d-4bd9-9202-7093a2b2f0d1.gif)
 
 ## Installation
 
